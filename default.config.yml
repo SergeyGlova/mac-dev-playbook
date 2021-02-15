@@ -43,7 +43,7 @@ homebrew_installed_packages:
 #   - sqlite
 #   - mcrypt
 #   - nmap
-#   - node
+  - node
 #   - nvm
 #   - php
 #   - ssh-copy-id
@@ -64,7 +64,7 @@ homebrew_cask_apps:
 #   - docker
 #   - dropbox
 #   - firefox
-#   - google-chrome
+  - google-chrome
 #   - handbrake
 #   - licecap
 #   - sequel-pro
