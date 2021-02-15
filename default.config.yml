@@ -28,31 +28,31 @@ dotfiles_files:
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
-  - autoconf
-  - bash-completion
-  - doxygen
-  - gettext
-  - gifsicle
-  - git
-  - github/gh/gh
-  - go
-  - gpg
-  - httpie
-  - iperf
-  - libevent
-  - sqlite
-  - mcrypt
-  - nmap
-  - node
-  - nvm
-  - php
-  - ssh-copy-id
-  - cowsay
-  - readline
-  - openssl
-  - pv
-  - wget
-  - wrk
+#   - autoconf
+#   - bash-completion
+#   - doxygen
+#   - gettext
+#   - gifsicle
+#   - git
+#   - github/gh/gh
+#   - go
+#   - gpg
+#   - httpie
+#   - iperf
+#   - libevent
+#   - sqlite
+#   - mcrypt
+#   - nmap
+#   - node
+#   - nvm
+#   - php
+#   - ssh-copy-id
+#   - cowsay
+#   - readline
+#   - openssl
+#   - pv
+#   - wget
+#   - wrk
 
 homebrew_taps:
   - homebrew/core
@@ -68,7 +68,7 @@ homebrew_cask_apps:
 #   - handbrake
 #   - licecap
 #   - sequel-pro
-  - slack
+#   - slack
 #   - sublime-text
 #   - transmit
 #   - vagrant
