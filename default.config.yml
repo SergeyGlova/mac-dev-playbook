@@ -1,9 +1,9 @@
 ---
 downloads: ~/.ansible-downloads/
 
-configure_dotfiles: false
-configure_terminal: false
-configure_osx: false
+configure_dotfiles: true
+configure_terminal: true
+configure_osx: true
 
 configure_sudoers: false
 sudoers_custom_config: ''
@@ -67,7 +67,7 @@ homebrew_cask_apps:
 #   - sequel-pro
   - slack
 #   - sublime-text
-  - transmit
+#   - transmit
 #   - vagrant
 
 # See `geerlingguy.mas` role documentation for usage instructions.
