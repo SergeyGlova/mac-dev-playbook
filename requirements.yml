@@ -1,4 +1,4 @@
 ---
 - name: geerlingguy.dotfiles
-- name: geerlingguy.homebrew
+- name: sergeyglova.homebrew
 - name: geerlingguy.mas
